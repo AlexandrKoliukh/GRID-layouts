@@ -1,7 +1,7 @@
 # GRID-layouts
 
-###Swiss-poster
+### Swiss-poster
 ![swiss-poster](images/screenshot-swiss-poster.png)
 
-###Neo-poster
+### Neo-poster
 ![swiss-poster](images/screenshot-neo-poster.png)
